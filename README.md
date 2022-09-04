@@ -12,8 +12,8 @@
     along with a large collection of high-level mathematical
     functions to operate on these arrays
 
-<h2>All numpy functions list<h2>
-        
+## All numpy functions list
+      
     numpy all functions count : 526
     0 : abs
     1 : absolute
