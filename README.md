@@ -4,6 +4,7 @@
 
 ##
 
+
 ![IqrorjonCoder](https://user-images.githubusercontent.com/111178357/188310463-b6d95f15-6a7d-47ce-aa1a-546e90fe366a.png)
 <h3>Numpy is</h3>
 
